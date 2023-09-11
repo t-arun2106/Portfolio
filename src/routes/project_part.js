@@ -20,8 +20,7 @@ const Projectpart = () => {
          <p>A Simple Static Webpage Created By Using HTML And With CSS And It Also Responsive For All Media Screens.</p>
       </div>
       <div>
-        {/* <button className='btn'>Click To View</button> */}
-        <a className="btn" href="">Click To View</a>
+        <a className="btn" href="https://main--stupendous-babka-51064b.netlify.app/">Click To View</a>
       </div>
     </div>
 
