@@ -20,7 +20,8 @@ const Projectpart = () => {
          <p>A Simple Static Webpage Created By Using HTML And With CSS And It Also Responsive For All Media Screens.</p>
       </div>
       <div>
-        <button className='btn'>Click To View</button>
+        {/* <button className='btn'>Click To View</button> */}
+        <a className="btn" href="">Click To View</a>
       </div>
     </div>
 
@@ -36,7 +37,7 @@ const Projectpart = () => {
          <p>The Food Recipe Webpage Is Built Using <span className='highlighter'> HTML,CSS And ReactJS.</span>Get Food recipe details from free <span className='highlighter'>API</span> .By using the details through API,We Can Easily Find out information about the recipes.</p>
       </div>
       <div>
-        <button className='btn'>Click To View</button>
+      <a className="btn" href="https://bright-meerkat-387999.netlify.app/">Click To View</a>
       </div>
     </div>
 
@@ -52,7 +53,7 @@ const Projectpart = () => {
          <p>By Using <span className='hightlighter'>CRUD</span>operation like Create,Read,Update And Delete The Content Using <span className='highlighter'>ReactJS</span></p>
       </div>
       <div>
-        <a className='btn' href="">Click To View</a>
+        <a className='btn' href="https://stupendous-marzipan-950e3d.netlify.app/">Click To View</a>
       </div>
     </div>
 
